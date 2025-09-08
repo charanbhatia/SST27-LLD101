@@ -17,3 +17,13 @@ hs_err_pid*
 target/
 build/
 out/
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
